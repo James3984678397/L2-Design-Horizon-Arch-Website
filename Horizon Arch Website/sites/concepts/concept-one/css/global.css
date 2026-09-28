@@ -4,12 +4,15 @@ header
 
 .header-top-section
 .header-top-section-button
+.header-top-section-button:hover
 
 .header-main
 .header-logo
 .header-navigation-bar
 .header-navigation-bar-button
+.header-navigation-bar-button:hover
 .header-call-to-action-button
+.header-call-to-action-button:hover
 .header-call-to-action-button-icon
 
 /* Footer */
@@ -22,13 +25,17 @@ footer
 .footer-menu-group-title
 .footer-menu-group-items-container
 .footer-menu-group-item
+.footer-menu-group-item:hover
+.footer-menu-group-item:hover .footer-menu-group-item-icon
 .footer-menu-group-item-icon
 
 .footer-menu-contact-group-item-social-media-links-container
 .footer-menu-contact-group-item-social-media-link
+.footer-menu-contact-group-item-social-media-link:hover
 
 .footer-menu-call-to-action-group
 .footer-main-call-to-action-button
+.footer-main-call-to-action-button:hover
 .footer-main-call-to-action-button-icon
 .footer-main-call-to-action-button-under-text
 
@@ -38,5 +45,6 @@ footer
 .footer-logo
 .footer-bottom-section-buttons-container
 .footer-bottom-section-button
+.footer-bottom-section-button:hover
 .footer-bottom-section-button-icon
 .footer-bottom-section-copyright-text
